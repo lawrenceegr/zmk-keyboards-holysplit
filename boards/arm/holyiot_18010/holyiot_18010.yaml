@@ -1,4 +1,4 @@
-identifier: holyiot_18010
+identifier: holyiot_18010/nrf52840
 name: Holyiot 18010
 type: mcu
 arch: arm

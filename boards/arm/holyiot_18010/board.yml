@@ -1,0 +1,5 @@
+board:
+  name: holyiot_18010
+  vendor: generic
+  socs:
+    - name: nrf52840
